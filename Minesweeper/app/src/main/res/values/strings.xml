@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="stringcreatebutton">Create game</string>
+</resources>
